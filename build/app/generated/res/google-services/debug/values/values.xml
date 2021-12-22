@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">94616858247-iphpgmqpff07stbuocm6sm562q6p6f9a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">94616858247</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFmjON8PX6QwzhqzcXaMrtjxAIdD-zPbE</string>
+    <string name="google_app_id" translatable="false">1:94616858247:android:84168d0528d2ed4ed1d222</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFmjON8PX6QwzhqzcXaMrtjxAIdD-zPbE</string>
+    <string name="google_storage_bucket" translatable="false">misiontic-26c2d.appspot.com</string>
+    <string name="project_id" translatable="false">misiontic-26c2d</string>
+</resources>
